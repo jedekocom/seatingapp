@@ -679,72 +679,32 @@
     "dieet": "",
     "opmerking": ""
   },
-  "M6.1": {
-    "naam": "Piet Remijnse",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M6.2": {
-    "naam": "Chris Jansen",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M6.3": {
-    "naam": "Christa Remijnse",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M6.4": {
-    "naam": "Coen Greeve",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M6.5": {
-    "naam": "Olaf Ouwerkerk",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M6.6": {
-    "naam": "Anouk Langerijs",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M7.1": {
-    "naam": "Penelope Mazlounides",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M7.2": {
+  "M8.1": {
     "naam": "Dieuwer Bulthuis",
     "dieet": "",
     "opmerking": ""
   },
-  "M7.4": {
-    "naam": "Elisa Koot",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M7.5": {
-    "naam": "Thomas Hazelaar",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "M8.1": {
+  "M8.2": {
     "naam": "Karlijn Gerris",
     "dieet": "",
     "opmerking": ""
   },
-  "M8.2": {
+  "M8.3": {
     "naam": "Lars Crama",
     "dieet": "",
     "opmerking": ""
   },
   "M8.4": {
-    "naam": "Evert Kromjong",
+    "naam": "Thomas Hazelaar",
     "dieet": "",
     "opmerking": ""
   },
   "M8.5": {
+    "naam": "Evert Kromjong",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M8.6": {
     "naam": "Tom van der Kamp",
     "dieet": "",
     "opmerking": ""
@@ -786,6 +746,56 @@
   },
   "M4.5": {
     "naam": "Lennert Dik",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M6.1": {
+    "naam": "Piet Remijnse",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M6.2": {
+    "naam": "Chris Jansen",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M6.4": {
+    "naam": "Coen Greeve",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M6.5": {
+    "naam": "Olaf Ouwerkerk",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.1": {
+    "naam": "Christa Remijnse",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.2": {
+    "naam": "Penelope Mazlounides",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.4": {
+    "naam": "Anouk Langerijs",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.5": {
+    "naam": "Elisa Koot",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.3": {
+    "naam": "",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "M7.6": {
+    "naam": "",
     "dieet": "",
     "opmerking": ""
   }
