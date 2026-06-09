@@ -166,7 +166,7 @@
   },
   "L2.6": {
     "naam": "Ingrid ",
-    "dieet": "achternaam",
+    "dieet": "",
     "opmerking": ""
   },
   "L3.1": {
@@ -176,12 +176,12 @@
   },
   "L3.2": {
     "naam": "Tim Bruins",
-    "dieet": "",
+    "dieet": "Geen kaas",
     "opmerking": ""
   },
   "L3.3": {
     "naam": "Michael van Lieren",
-    "dieet": "",
+    "dieet": "Geen koriander",
     "opmerking": ""
   },
   "L3.4": {
@@ -191,12 +191,12 @@
   },
   "L3.5": {
     "naam": "Elisa Couwenberg",
-    "dieet": "",
+    "dieet": "Geen vis",
     "opmerking": ""
   },
   "L3.6": {
     "naam": "Silvia de Reus",
-    "dieet": "",
+    "dieet": "Geen koriander",
     "opmerking": ""
   },
   "L4.1": {
@@ -276,7 +276,7 @@
   },
   "L6.4": {
     "naam": "Kimberley Deen",
-    "dieet": "",
+    "dieet": "Geen vlees wel vis",
     "opmerking": ""
   },
   "L6.5": {
@@ -316,36 +316,6 @@
   },
   "L7.6": {
     "naam": "Marieke van Haaster",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.1": {
-    "naam": "Stephanie Corey",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.2": {
-    "naam": "Jeffrey Corey",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.3": {
-    "naam": "",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.4": {
-    "naam": "Rianne van Gijn",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.5": {
-    "naam": "Jorne Schamp",
-    "dieet": "",
-    "opmerking": ""
-  },
-  "L8.6": {
-    "naam": "",
     "dieet": "",
     "opmerking": ""
   },
@@ -411,7 +381,7 @@
   },
   "R3.1": {
     "naam": "Saskia Kanters",
-    "dieet": "",
+    "dieet": "Geen vis",
     "opmerking": ""
   },
   "R3.2": {
@@ -436,7 +406,7 @@
   },
   "R3.6": {
     "naam": "Reineke Veraar",
-    "dieet": "",
+    "dieet": "Vegetarisch",
     "opmerking": ""
   },
   "R4.1": {
@@ -461,7 +431,7 @@
   },
   "R4.5": {
     "naam": "Thalita Holthuizen",
-    "dieet": "",
+    "dieet": "Vegetarisch",
     "opmerking": ""
   },
   "R4.6": {
@@ -501,7 +471,7 @@
   },
   "R6.1": {
     "naam": "José Brenninkmeijer",
-    "dieet": "",
+    "dieet": "Geen tomaat ajb. daar werk ik wel omheen.",
     "opmerking": ""
   },
   "R6.2": {
@@ -561,7 +531,7 @@
   },
   "R8.1": {
     "naam": "Tessa Schreurs",
-    "dieet": "",
+    "dieet": "Geen vis/schaaldieren",
     "opmerking": ""
   },
   "R8.2": {
@@ -656,7 +626,7 @@
   },
   "M5.2": {
     "naam": "Merel Zoontjes",
-    "dieet": "",
+    "dieet": "Zwanger",
     "opmerking": ""
   },
   "M5.3": {
@@ -706,7 +676,7 @@
   },
   "M8.6": {
     "naam": "Tom van der Kamp",
-    "dieet": "",
+    "dieet": "Liever geen pinda",
     "opmerking": ""
   },
   "M3.1": {
@@ -731,12 +701,12 @@
   },
   "M4.1": {
     "naam": "Eva van der Voet",
-    "dieet": "",
+    "dieet": "Vegetarisch",
     "opmerking": ""
   },
   "M4.2": {
     "naam": "Diksha Dik",
-    "dieet": "",
+    "dieet": "Geen rundvlees",
     "opmerking": ""
   },
   "M4.4": {
@@ -796,6 +766,26 @@
   },
   "M7.6": {
     "naam": "",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "L8.1": {
+    "naam": "Stephanie Corey",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "L8.2": {
+    "naam": "Jeffrey Corey",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "L8.4": {
+    "naam": "Rianne van Gijn",
+    "dieet": "",
+    "opmerking": ""
+  },
+  "L8.5": {
+    "naam": "Jorne Schamp",
     "dieet": "",
     "opmerking": ""
   }
